@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "日曜日",
+  "base_artist": "back number",
+  "createdAt": "2025-12-21T09:20:13.440547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_日曜日_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "日曜日(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/02_日曜日(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/03_日曜日_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "神前暁",
+      "has_synced": false,
+      "path": "select/04_日曜日_神前暁.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_日曜日_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/06_日曜日_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "佐井好子",
+      "has_synced": true,
+      "path": "select/07_日曜日_佐井好子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "Sai, Yoshiko",
+      "has_synced": true,
+      "path": "select/08_日曜日_Sai,_Yoshiko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "日曜日，僕は荷物持ち",
+      "artist": "藤田麻衣子",
+      "has_synced": true,
+      "path": "select/09_日曜日,僕は荷物持ち_藤田麻衣子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "ゲシュタルト乙女",
+      "has_synced": true,
+      "path": "select/10_日曜日_ゲシュタルト乙女.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "Tsukiko Amano",
+      "has_synced": false,
+      "path": "select/11_日曜日_Tsukiko_Amano.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "日曜日 - Nichiyoubi",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/12_日曜日_-_Nichiyoubi_back_number.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "Yoshiko Sai",
+      "has_synced": true,
+      "path": "select/13_日曜日_Yoshiko_Sai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/14_日曜日_back_number.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/15_日曜日_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "日曜日",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/16_日曜日_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日曜日",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_日曜日_back_number.txt"
+    }
+  ]
+}
